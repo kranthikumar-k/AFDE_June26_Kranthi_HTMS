@@ -1,0 +1,22 @@
+[
+  {
+    "time_bucket":"<4h",
+    "count":3
+  },
+  {
+    "time_bucket":"4-8h",
+    "count":19
+  },
+  {
+    "time_bucket":"8-24h",
+    "count":28
+  },
+  {
+    "time_bucket":"24-48h",
+    "count":60
+  },
+  {
+    "time_bucket":">72h",
+    "count":25
+  }
+]

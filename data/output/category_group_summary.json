@@ -1,0 +1,51 @@
+[
+  {
+    "category_group":"Access & Security",
+    "ticket_count":38,
+    "resolved":24,
+    "avg_resolution_hours":34.33,
+    "resolution_rate_pct":63.2
+  },
+  {
+    "category_group":"Communication",
+    "ticket_count":22,
+    "resolved":17,
+    "avg_resolution_hours":27.88,
+    "resolution_rate_pct":77.3
+  },
+  {
+    "category_group":"Data Management",
+    "ticket_count":19,
+    "resolved":16,
+    "avg_resolution_hours":36.69,
+    "resolution_rate_pct":84.2
+  },
+  {
+    "category_group":"General",
+    "ticket_count":13,
+    "resolved":5,
+    "avg_resolution_hours":34.2,
+    "resolution_rate_pct":38.5
+  },
+  {
+    "category_group":"Hardware",
+    "ticket_count":50,
+    "resolved":30,
+    "avg_resolution_hours":41.57,
+    "resolution_rate_pct":60.0
+  },
+  {
+    "category_group":"Network & Connectivity",
+    "ticket_count":32,
+    "resolved":16,
+    "avg_resolution_hours":54.38,
+    "resolution_rate_pct":50.0
+  },
+  {
+    "category_group":"Software",
+    "ticket_count":36,
+    "resolved":27,
+    "avg_resolution_hours":40.67,
+    "resolution_rate_pct":75.0
+  }
+]

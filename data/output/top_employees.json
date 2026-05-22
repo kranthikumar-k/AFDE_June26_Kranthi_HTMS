@@ -1,0 +1,107 @@
+[
+  {
+    "employee_name":"Priya Mehta",
+    "total_tickets":13,
+    "open":2,
+    "resolved":8,
+    "critical":1
+  },
+  {
+    "employee_name":"Arun Pillai",
+    "total_tickets":11,
+    "open":2,
+    "resolved":8,
+    "critical":3
+  },
+  {
+    "employee_name":"Suresh Reddy",
+    "total_tickets":11,
+    "open":0,
+    "resolved":9,
+    "critical":0
+  },
+  {
+    "employee_name":"Sunita Kumari",
+    "total_tickets":9,
+    "open":2,
+    "resolved":6,
+    "critical":1
+  },
+  {
+    "employee_name":"Ravi Shankar",
+    "total_tickets":9,
+    "open":6,
+    "resolved":3,
+    "critical":0
+  },
+  {
+    "employee_name":"Anita Roy",
+    "total_tickets":9,
+    "open":0,
+    "resolved":6,
+    "critical":1
+  },
+  {
+    "employee_name":"Swathi Rao",
+    "total_tickets":9,
+    "open":2,
+    "resolved":6,
+    "critical":0
+  },
+  {
+    "employee_name":"Nisha Patel",
+    "total_tickets":8,
+    "open":0,
+    "resolved":8,
+    "critical":0
+  },
+  {
+    "employee_name":"Rekha Nair",
+    "total_tickets":8,
+    "open":2,
+    "resolved":4,
+    "critical":1
+  },
+  {
+    "employee_name":"Meena Pillai",
+    "total_tickets":8,
+    "open":3,
+    "resolved":5,
+    "critical":1
+  },
+  {
+    "employee_name":"Anjali Bose",
+    "total_tickets":8,
+    "open":1,
+    "resolved":5,
+    "critical":0
+  },
+  {
+    "employee_name":"Manoj Tiwari",
+    "total_tickets":8,
+    "open":2,
+    "resolved":6,
+    "critical":0
+  },
+  {
+    "employee_name":"Kavya Reddy",
+    "total_tickets":8,
+    "open":1,
+    "resolved":4,
+    "critical":1
+  },
+  {
+    "employee_name":"Deepak Sharma",
+    "total_tickets":8,
+    "open":2,
+    "resolved":4,
+    "critical":2
+  },
+  {
+    "employee_name":"Sneha Kapoor",
+    "total_tickets":8,
+    "open":3,
+    "resolved":4,
+    "critical":1
+  }
+]

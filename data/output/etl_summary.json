@@ -1,0 +1,13 @@
+{
+  "etl_run_id": "ETL-HELPDESK-20260521120710",
+  "completed_at": "2026-05-21T12:07:10.892088",
+  "total_tickets": 210,
+  "open_tickets": 42,
+  "resolved_tickets": 135,
+  "critical_tickets": 19,
+  "sla_breaches": 126,
+  "avg_resolution_hours": 39.04,
+  "top_category": "Email Access",
+  "top_department": "Marketing",
+  "dedup_removed": 10
+}

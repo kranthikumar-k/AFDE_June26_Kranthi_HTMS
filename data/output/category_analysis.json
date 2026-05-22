@@ -1,0 +1,110 @@
+[
+  {
+    "issue_category":"Email Access",
+    "ticket_count":22,
+    "resolved":17,
+    "avg_resolution_hours":27.88,
+    "critical_count":2,
+    "high_count":7,
+    "resolution_rate_pct":77.3
+  },
+  {
+    "issue_category":"Software Installation",
+    "ticket_count":22,
+    "resolved":15,
+    "avg_resolution_hours":42.2,
+    "critical_count":3,
+    "high_count":3,
+    "resolution_rate_pct":68.2
+  },
+  {
+    "issue_category":"Printer Issue",
+    "ticket_count":20,
+    "resolved":15,
+    "avg_resolution_hours":48.27,
+    "critical_count":1,
+    "high_count":4,
+    "resolution_rate_pct":75.0
+  },
+  {
+    "issue_category":"Access Denied",
+    "ticket_count":20,
+    "resolved":15,
+    "avg_resolution_hours":35.73,
+    "critical_count":3,
+    "high_count":5,
+    "resolution_rate_pct":75.0
+  },
+  {
+    "issue_category":"Network Connectivity",
+    "ticket_count":19,
+    "resolved":8,
+    "avg_resolution_hours":42.25,
+    "critical_count":3,
+    "high_count":2,
+    "resolution_rate_pct":42.1
+  },
+  {
+    "issue_category":"Data Recovery",
+    "ticket_count":19,
+    "resolved":16,
+    "avg_resolution_hours":36.69,
+    "critical_count":1,
+    "high_count":7,
+    "resolution_rate_pct":84.2
+  },
+  {
+    "issue_category":"Hardware Request",
+    "ticket_count":18,
+    "resolved":13,
+    "avg_resolution_hours":36.0,
+    "critical_count":2,
+    "high_count":3,
+    "resolution_rate_pct":72.2
+  },
+  {
+    "issue_category":"Password Reset",
+    "ticket_count":18,
+    "resolved":9,
+    "avg_resolution_hours":32.0,
+    "critical_count":3,
+    "high_count":3,
+    "resolution_rate_pct":50.0
+  },
+  {
+    "issue_category":"System Crash",
+    "ticket_count":14,
+    "resolved":12,
+    "avg_resolution_hours":38.75,
+    "critical_count":1,
+    "high_count":6,
+    "resolution_rate_pct":85.7
+  },
+  {
+    "issue_category":"Other",
+    "ticket_count":13,
+    "resolved":5,
+    "avg_resolution_hours":34.2,
+    "critical_count":0,
+    "high_count":3,
+    "resolution_rate_pct":38.5
+  },
+  {
+    "issue_category":"VPN Issue",
+    "ticket_count":13,
+    "resolved":8,
+    "avg_resolution_hours":66.5,
+    "critical_count":0,
+    "high_count":4,
+    "resolution_rate_pct":61.5
+  },
+  {
+    "issue_category":"Laptop Issue",
+    "ticket_count":12,
+    "resolved":2,
+    "avg_resolution_hours":27.5,
+    "critical_count":0,
+    "high_count":4,
+    "resolution_rate_pct":16.7
+  }
+]

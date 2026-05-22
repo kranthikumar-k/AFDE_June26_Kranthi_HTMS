@@ -1,0 +1,221 @@
+ticket_id,employee_name,department,issue_category,description,priority,status,resolution_notes,created_at,resolved_at,is_duplicate,source
+1,Kavya Reddy,Operations,Data Recovery,"Excel file corrupted, need recovery",Low,Resolved,Granted required folder permissions. Access confirmed by user.,2023-08-11 09:43:00,2023-08-14 20:43:00,No,CSV Import
+2,Manoj Tiwari,Operations,Hardware Request,Requesting ergonomic keyboard,Low,Open,,2024-04-04 08:35:00,,No,CSV Import
+3,Suresh Reddy,Operations,Other,Need help with IT setup for new joiner,Medium,Resolved,Password reset successfully. User advised to update recovery email.,2024-03-28 12:51:00,2024-03-30 12:51:00,No,CSV Import
+4,Arun Pillai,Operations,Other,Requesting IT equipment audit,Medium,In Progress,,2023-11-20 09:05:00,,No,CSV Import
+5,Geeta Singh,Marketing,Password Reset,Forgot my Windows login password,Medium,In Progress,,2023-06-23 15:34:00,,No,CSV Import
+6,Deepak Sharma,Sales,Hardware Request,Requesting ergonomic keyboard,Low,In Progress,,2023-09-07 09:02:00,,No,CSV Import
+7,Kiran Kumar,HR,Email Access,Cannot send attachments above 10MB,Critical,Closed,Software configuration completed successfully.,2023-10-21 15:40:00,2023-10-21 20:40:00,No,CSV Import
+8,Anita Roy,HR,Network Connectivity,WiFi keeps disconnecting every few minutes,Medium,In Progress,,2024-04-21 10:34:00,,No,CSV Import
+9,Kavya Reddy,Management,Software Installation,Need Microsoft Office installed on new laptop,Medium,In Progress,,2023-11-14 08:14:00,,No,CSV Import
+10,Vikram Singh,Sales,Network Connectivity,Cannot access company intranet,Medium,Open,,2024-02-11 14:56:00,,No,CSV Import
+11,Rekha Nair,Management,Software Installation,SAP client installation permission denied,Medium,In Progress,,2023-10-13 17:27:00,,No,CSV Import
+12,Manoj Tiwari,Finance,Hardware Request,Need a second monitor for design work,Medium,Closed,Hardware replacement completed. User satisfied.,2024-02-08 09:48:00,2024-02-09 12:48:00,No,CSV Import
+13,Kiran Kumar,HR,Data Recovery,"Excel file corrupted, need recovery",Low,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2023-12-13 17:29:00,2023-12-18 01:29:00,No,CSV Import
+14,Arun Pillai,Management,VPN Issue,Cisco AnyConnect shows authentication error,High,Open,,2023-10-15 13:07:00,,No,CSV Import
+15,Manoj Tiwari,Marketing,Hardware Request,Need a second monitor for design work,Low,Open,,2023-08-31 16:58:00,,No,CSV Import
+16,Amit Joshi,Operations,Data Recovery,"Excel file corrupted, need recovery",Medium,Resolved,Granted required folder permissions. Access confirmed by user.,2023-12-09 10:34:00,2023-12-10 10:34:00,No,CSV Import
+17,Ravi Shankar,Sales,Network Connectivity,WiFi keeps disconnecting every few minutes,Medium,Open,,2023-11-05 11:03:00,,No,CSV Import
+18,Harish Verma,IT Support,Access Denied,Permission denied for project folder,Critical,Open,,2023-07-06 16:49:00,,No,CSV Import
+19,Sanjay Gupta,Finance,Software Installation,AutoCAD installation failed with error 1603,High,Closed,Hardware replacement completed. User satisfied.,2024-02-26 17:27:00,2024-02-27 09:27:00,No,CSV Import
+20,Suresh Reddy,Sales,Other,Monitor needs wall mounting,Medium,Closed,Issue resolved and confirmed by user. Ticket closed.,2024-02-20 15:07:00,2024-02-21 22:07:00,No,CSV Import
+21,Arjun Sharma,Operations,Network Connectivity,No internet connection at my workstation,Low,Resolved,Printer driver reinstalled and port configured correctly.,2023-07-07 08:14:00,2023-07-10 12:14:00,No,CSV Import
+22,Vikram Singh,IT Support,Password Reset,Password expired and reset link not working,Medium,In Progress,,2024-03-03 10:46:00,,No,CSV Import
+23,Vikram Singh,Legal,Access Denied,Access denied to finance system,Medium,Closed,Network issue fixed at switch level. Stable connection restored.,2023-07-19 09:42:00,2023-07-20 20:42:00,No,CSV Import
+24,Priya Mehta,HR,Hardware Request,Need a second monitor for design work,Medium,Resolved,Replaced faulty RAM module. System running normally.,2023-12-24 13:51:00,2023-12-25 20:51:00,No,CSV Import
+25,Sanjay Gupta,Finance,Laptop Issue,"Laptop not starting, black screen on boot",Medium,Open,,2024-01-23 11:55:00,,No,CSV Import
+26,Priya Mehta,HR,Printer Issue,Printer showing offline status,High,Closed,Hardware replacement completed. User satisfied.,2024-04-29 16:53:00,2024-04-30 01:53:00,No,CSV Import
+27,Ravi Shankar,Legal,Software Installation,Need Microsoft Office installed on new laptop,Medium,Resolved,Software installed and licensed. User trained on basic usage.,2023-07-01 10:24:00,2023-07-02 22:24:00,No,CSV Import
+28,Swathi Rao,Management,Printer Issue,Printer not found on network,Medium,Resolved,Issue resolved by resetting network adapter settings.,2024-02-05 10:12:00,2024-02-06 16:12:00,No,CSV Import
+29,Priya Mehta,Sales,Access Denied,Cannot view dashboard in BI tool,High,Open,,2023-06-26 17:30:00,,No,CSV Import
+30,Sunita Kumari,HR,System Crash,Computer crashes with blue screen,Low,Closed,Network issue fixed at switch level. Stable connection restored.,2023-09-04 09:38:00,2023-09-08 15:38:00,No,CSV Import
+31,Anita Roy,Engineering,Password Reset,Password expired and reset link not working,Critical,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2023-07-12 14:42:00,2023-07-12 22:42:00,No,CSV Import
+32,Kavya Reddy,Sales,Network Connectivity,Very slow internet speed on 3rd floor,Critical,In Progress,,2023-10-14 14:08:00,,No,CSV Import
+33,Arjun Sharma,HR,Printer Issue,Printer showing offline status,Medium,Closed,Data recovered from backup. User confirmed all files present.,2024-01-21 17:36:00,2024-01-22 19:36:00,No,CSV Import
+34,Ravi Shankar,Sales,Laptop Issue,Keyboard keys not working properly,Medium,Open,,2023-07-06 11:23:00,,No,CSV Import
+35,Anita Roy,Marketing,Software Installation,SAP client installation permission denied,Medium,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2024-04-30 16:00:00,2024-05-02 01:00:00,No,CSV Import
+36,Amit Joshi,Management,Software Installation,AutoCAD installation failed with error 1603,Medium,Closed,Software configuration completed successfully.,2023-10-18 12:38:00,2023-10-20 10:38:00,No,CSV Import
+37,Nisha Patel,Management,Laptop Issue,Screen flickering issue,High,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-10-07 08:05:00,2023-10-07 20:05:00,No,CSV Import
+38,Divya Nair,Marketing,VPN Issue,VPN connects but cannot access internal resources,Medium,Open,,2024-01-13 16:45:00,,No,CSV Import
+39,Rekha Nair,Finance,System Crash,Browser crashes repeatedly,Low,Open,,2023-06-19 13:37:00,,No,CSV Import
+40,Ravi Shankar,Sales,Software Installation,AutoCAD installation failed with error 1603,Medium,Open,,2023-06-21 13:13:00,,No,CSV Import
+41,Anita Roy,Legal,Data Recovery,Need to recover data from old hard drive,Low,Closed,Network issue fixed at switch level. Stable connection restored.,2023-08-19 11:55:00,2023-08-23 09:55:00,No,CSV Import
+42,Geeta Singh,Legal,VPN Issue,Unable to connect to VPN from home,Low,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-10-06 12:10:00,2023-10-11 12:10:00,No,CSV Import
+43,Anjali Bose,IT Support,Printer Issue,Printer showing offline status,Medium,Closed,Hardware replacement completed. User satisfied.,2023-11-04 11:14:00,2023-11-06 08:14:00,No,CSV Import
+44,Anjali Bose,Marketing,Hardware Request,Need external hard drive for backup,Medium,Closed,Issue resolved and confirmed by user. Ticket closed.,2024-04-24 16:25:00,2024-04-26 02:25:00,No,CSV Import
+45,Priya Mehta,Marketing,Password Reset,Need to reset email password,High,In Progress,,2023-07-26 17:27:00,,No,CSV Import
+46,Sneha Kapoor,Management,Other,Need software license renewed,High,Resolved,Restored files from daily backup. User data intact.,2023-12-15 17:12:00,2023-12-16 01:12:00,No,CSV Import
+47,Anjali Bose,Operations,VPN Issue,Cisco AnyConnect shows authentication error,Medium,Closed,Software configuration completed successfully.,2024-01-07 09:42:00,2024-01-09 04:42:00,No,CSV Import
+48,Manoj Tiwari,Marketing,Data Recovery,Database backup restore required,High,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2023-11-06 14:20:00,2023-11-07 02:20:00,No,CSV Import
+49,Swathi Rao,Legal,Software Installation,Python environment setup required,Low,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2023-08-29 17:36:00,2023-09-03 20:36:00,No,CSV Import
+50,Suresh Reddy,Sales,VPN Issue,VPN connection drops after 5 minutes,Medium,In Progress,,2024-01-13 15:43:00,,No,CSV Import
+51,Swathi Rao,Finance,System Crash,Browser crashes repeatedly,Medium,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-07-14 12:32:00,2023-07-15 22:32:00,No,CSV Import
+52,Amit Joshi,Operations,Laptop Issue,Screen flickering issue,High,In Progress,,2023-06-13 08:15:00,,No,CSV Import
+53,Ravi Shankar,Legal,Access Denied,Access denied to finance system,High,Open,,2024-04-18 17:12:00,,No,CSV Import
+54,Ravi Shankar,Engineering,Printer Issue,Print jobs stuck in queue,Medium,Open,,2023-07-25 14:14:00,,No,CSV Import
+55,Asha Nair,Operations,Other,Requesting IT equipment audit,Medium,Open,,2023-08-02 15:08:00,,No,CSV Import
+56,Arun Pillai,Sales,Data Recovery,"Excel file corrupted, need recovery",Medium,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2024-01-13 17:52:00,2024-01-15 06:52:00,No,CSV Import
+57,Suresh Reddy,IT Support,Printer Issue,Printer not found on network,High,Resolved,Cleared print queue and restarted spooler service.,2023-10-11 11:53:00,2023-10-12 03:53:00,No,CSV Import
+58,Kavya Reddy,Marketing,Data Recovery,"Excel file corrupted, need recovery",Medium,Resolved,Password reset successfully. User advised to update recovery email.,2023-10-18 13:20:00,2023-10-19 15:20:00,No,CSV Import
+59,Rohan Verma,Operations,Software Installation,SAP client installation permission denied,Medium,Resolved,Restored files from daily backup. User data intact.,2023-12-30 14:21:00,2024-01-01 04:21:00,No,CSV Import
+60,Sunita Kumari,Engineering,VPN Issue,Unable to connect to VPN from home,Medium,Resolved,Software installed and licensed. User trained on basic usage.,2024-03-21 14:30:00,2024-03-23 01:30:00,No,CSV Import
+61,Rekha Nair,Legal,Hardware Request,Requesting ergonomic keyboard,High,Closed,Hardware replacement completed. User satisfied.,2024-03-06 17:57:00,2024-03-07 08:57:00,No,CSV Import
+62,Swathi Rao,Sales,Email Access,Email account showing as disconnected,Medium,Open,,2023-12-25 10:53:00,,No,CSV Import
+63,Deepak Sharma,Legal,Software Installation,Need VirtualBox installed for testing,Critical,Resolved,Cleared print queue and restarted spooler service.,2024-03-15 08:05:00,2024-03-15 13:05:00,No,CSV Import
+64,Suresh Reddy,Operations,Software Installation,Need VirtualBox installed for testing,Low,Resolved,Restored files from daily backup. User data intact.,2023-11-15 13:48:00,2023-11-20 00:48:00,No,CSV Import
+65,Priya Mehta,Management,Email Access,"Cannot access Outlook, showing connection error",High,Resolved,Issue resolved by resetting network adapter settings.,2023-11-27 11:41:00,2023-11-27 19:41:00,No,CSV Import
+66,Kavya Reddy,Finance,Laptop Issue,"Laptop not starting, black screen on boot",Low,Open,,2023-08-04 15:42:00,,No,CSV Import
+67,Arun Pillai,Marketing,Access Denied,Cannot view dashboard in BI tool,Critical,Resolved,Password reset successfully. User advised to update recovery email.,2023-12-06 10:38:00,2023-12-06 14:38:00,No,CSV Import
+68,Deepak Sharma,Marketing,Email Access,Emails not syncing on mobile phone,Low,Open,,2023-12-10 14:45:00,,No,CSV Import
+69,Sneha Kapoor,Operations,Password Reset,Forgot my Windows login password,Medium,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-11-02 17:51:00,2023-11-04 11:51:00,No,CSV Import
+70,Manoj Tiwari,HR,Network Connectivity,Cannot access company intranet,Medium,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2024-04-27 13:00:00,2024-04-29 04:00:00,No,CSV Import
+71,Prasad Kulkarni,IT Support,Hardware Request,Need external hard drive for backup,Critical,Resolved,Granted required folder permissions. Access confirmed by user.,2023-08-18 14:11:00,2023-08-18 20:11:00,No,CSV Import
+72,Rahul Das,Marketing,System Crash,Outlook crashes when opening attachments,High,Resolved,Cleared print queue and restarted spooler service.,2023-10-04 09:17:00,2023-10-04 20:17:00,No,CSV Import
+73,Nisha Patel,Engineering,Access Denied,Permission denied for project folder,Medium,Resolved,Software installed and licensed. User trained on basic usage.,2023-11-14 10:31:00,2023-11-15 21:31:00,No,CSV Import
+74,Rekha Nair,Marketing,Network Connectivity,No internet connection at my workstation,Medium,Resolved,Restored files from daily backup. User data intact.,2023-06-06 16:12:00,2023-06-07 23:12:00,No,CSV Import
+75,Varun Menon,IT Support,Printer Issue,Printer showing offline status,Medium,In Progress,,2024-02-07 15:50:00,,No,CSV Import
+76,Meena Pillai,Operations,Password Reset,Password expired and reset link not working,Medium,Resolved,Printer driver reinstalled and port configured correctly.,2024-03-24 13:30:00,2024-03-26 05:30:00,No,CSV Import
+77,Prasad Kulkarni,Sales,Hardware Request,Need USB hub for laptop,Critical,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2024-01-19 12:19:00,2024-01-19 17:19:00,No,CSV Import
+78,Arun Pillai,Management,Other,Requesting IT equipment audit,Low,Open,,2023-09-03 11:13:00,,No,CSV Import
+79,Anita Roy,Management,Email Access,Emails not syncing on mobile phone,High,Closed,Hardware replacement completed. User satisfied.,2023-10-23 09:53:00,2023-10-23 21:53:00,No,CSV Import
+80,Amit Joshi,Management,Network Connectivity,Network drive not accessible,Low,Open,,2023-10-19 08:03:00,,No,CSV Import
+81,Sneha Kapoor,IT Support,Email Access,Email account showing as disconnected,High,Open,,2023-06-07 17:18:00,,No,CSV Import
+82,Sanjay Gupta,Engineering,Printer Issue,Printer showing offline status,Medium,In Progress,,2024-01-31 09:52:00,,No,CSV Import
+83,Amit Joshi,Engineering,Hardware Request,Need a second monitor for design work,Medium,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2023-08-16 17:19:00,2023-08-18 00:19:00,No,CSV Import
+84,Arun Pillai,Operations,System Crash,Outlook crashes when opening attachments,High,Resolved,Granted required folder permissions. Access confirmed by user.,2024-02-23 14:28:00,2024-02-24 02:28:00,No,CSV Import
+85,Arun Pillai,HR,Hardware Request,Need a second monitor for design work,Medium,Resolved,Replaced faulty RAM module. System running normally.,2023-09-15 11:16:00,2023-09-16 16:16:00,No,CSV Import
+86,Suresh Reddy,Legal,Software Installation,Need Microsoft Office installed on new laptop,Medium,In Progress,,2024-03-31 15:18:00,,No,CSV Import
+87,Rohan Verma,IT Support,Laptop Issue,Laptop overheating and shutting down,Medium,In Progress,,2023-09-28 12:50:00,,No,CSV Import
+88,Rekha Nair,HR,Data Recovery,Files missing after Windows update,High,In Progress,,2023-09-24 10:58:00,,No,CSV Import
+89,Anita Roy,Marketing,Software Installation,Need Microsoft Office installed on new laptop,Low,In Progress,,2024-03-18 12:28:00,,No,CSV Import
+90,Manoj Tiwari,Marketing,Printer Issue,Printer showing offline status,High,Resolved,Restored files from daily backup. User data intact.,2024-03-03 15:28:00,2024-03-03 23:28:00,No,CSV Import
+91,Kavya Reddy,HR,Other,Need software license renewed,Medium,In Progress,,2024-03-21 17:01:00,,No,CSV Import
+92,Manoj Tiwari,IT Support,Access Denied,Cannot open HR portal,Low,Closed,Data recovered from backup. User confirmed all files present.,2024-04-29 15:58:00,2024-05-03 14:58:00,No,CSV Import
+93,Nisha Patel,HR,Hardware Request,Need USB hub for laptop,Medium,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2023-11-26 14:21:00,2023-11-28 11:21:00,No,CSV Import
+94,Swathi Rao,Marketing,Software Installation,Need VirtualBox installed for testing,Medium,Resolved,Printer driver reinstalled and port configured correctly.,2023-12-23 16:02:00,2023-12-24 18:02:00,No,CSV Import
+95,Sunita Kumari,Legal,Email Access,Not receiving emails from external senders,Medium,Closed,Network issue fixed at switch level. Stable connection restored.,2024-02-19 08:42:00,2024-02-20 22:42:00,No,CSV Import
+96,Varun Menon,IT Support,VPN Issue,Cisco AnyConnect shows authentication error,Low,Resolved,Password reset successfully. User advised to update recovery email.,2024-01-13 08:13:00,2024-01-19 06:13:00,No,CSV Import
+97,Arjun Sharma,HR,Email Access,Emails not syncing on mobile phone,Medium,Resolved,Password reset successfully. User advised to update recovery email.,2024-04-18 17:51:00,2024-04-20 15:51:00,No,CSV Import
+98,Kavya Reddy,HR,Email Access,Emails not syncing on mobile phone,Medium,Resolved,Software installed and licensed. User trained on basic usage.,2023-07-29 15:07:00,2023-07-31 06:07:00,No,CSV Import
+99,Nisha Patel,IT Support,System Crash,Application crashes when opening large files,High,Resolved,Replaced faulty RAM module. System running normally.,2023-10-03 15:35:00,2023-10-04 05:35:00,No,CSV Import
+100,Sanjay Gupta,HR,Access Denied,Cannot view dashboard in BI tool,Medium,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-12-30 13:59:00,2023-12-31 21:59:00,No,CSV Import
+101,Sunita Kumari,IT Support,Email Access,Email account showing as disconnected,High,Closed,Software configuration completed successfully.,2023-08-16 15:34:00,2023-08-17 04:34:00,No,CSV Import
+102,Sunita Kumari,Sales,System Crash,Outlook crashes when opening attachments,High,Resolved,Restored files from daily backup. User data intact.,2023-09-05 11:36:00,2023-09-05 22:36:00,No,CSV Import
+103,Kiran Kumar,Legal,VPN Issue,Unable to connect to VPN from home,Medium,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2024-04-29 10:31:00,2024-04-30 14:31:00,No,CSV Import
+104,Sneha Kapoor,IT Support,Access Denied,Permission denied for project folder,Medium,Open,,2024-02-25 15:00:00,,No,CSV Import
+105,Nisha Patel,HR,Hardware Request,Requesting webcam for video calls,High,Closed,Software configuration completed successfully.,2023-10-14 13:39:00,2023-10-14 22:39:00,No,CSV Import
+106,Varun Menon,Sales,Data Recovery,"Excel file corrupted, need recovery",High,Resolved,Replaced faulty RAM module. System running normally.,2024-02-05 16:02:00,2024-02-06 01:02:00,No,CSV Import
+107,Lakshmi Devi,Operations,Data Recovery,Accidentally deleted important project files,High,In Progress,,2023-07-17 14:06:00,,No,CSV Import
+108,Priya Mehta,Engineering,Printer Issue,Printer not found on network,Low,In Progress,,2023-11-14 08:18:00,,No,CSV Import
+109,Deepak Sharma,Legal,Network Connectivity,No internet connection at my workstation,Medium,In Progress,,2023-09-01 10:11:00,,No,CSV Import
+110,Nisha Patel,Operations,Access Denied,Access denied to finance system,High,Resolved,Cleared print queue and restarted spooler service.,2024-03-25 10:14:00,2024-03-25 22:14:00,No,CSV Import
+111,Ravi Shankar,IT Support,Email Access,"Cannot access Outlook, showing connection error",High,Closed,Software configuration completed successfully.,2023-10-26 16:10:00,2023-10-27 07:10:00,No,CSV Import
+112,Suresh Reddy,Marketing,Access Denied,Access denied to finance system,Medium,Closed,Hardware replacement completed. User satisfied.,2023-11-02 11:24:00,2023-11-03 14:24:00,No,CSV Import
+113,Arjun Sharma,Marketing,Hardware Request,Need external hard drive for backup,Medium,Resolved,Issue resolved by resetting network adapter settings.,2023-12-20 12:00:00,2023-12-22 09:00:00,No,CSV Import
+114,Arun Pillai,Marketing,Access Denied,Cannot open HR portal,High,Closed,Hardware replacement completed. User satisfied.,2023-09-26 17:51:00,2023-09-27 04:51:00,No,CSV Import
+115,Varun Menon,Finance,Access Denied,Access denied to finance system,Medium,Closed,Data recovered from backup. User confirmed all files present.,2023-07-20 08:19:00,2023-07-21 09:19:00,No,CSV Import
+116,Rahul Das,Marketing,Network Connectivity,WiFi keeps disconnecting every few minutes,High,Open,,2023-12-30 10:12:00,,No,CSV Import
+117,Asha Nair,Management,System Crash,Outlook crashes when opening attachments,High,Resolved,Printer driver reinstalled and port configured correctly.,2023-10-18 10:16:00,2023-10-18 22:16:00,No,CSV Import
+118,Sunita Kumari,Operations,Password Reset,Forgot my Windows login password,Medium,Open,,2023-12-21 16:23:00,,No,CSV Import
+119,Anjali Bose,IT Support,Hardware Request,Need USB hub for laptop,Low,Resolved,Replaced faulty RAM module. System running normally.,2023-10-13 17:24:00,2023-10-17 06:24:00,No,CSV Import
+120,Rahul Das,Management,Printer Issue,Printer showing offline status,Low,Closed,Software configuration completed successfully.,2024-04-08 11:41:00,2024-04-13 22:41:00,No,CSV Import
+121,Meena Pillai,Engineering,Data Recovery,Need to recover data from old hard drive,Medium,Open,,2024-02-08 09:06:00,,No,CSV Import
+122,Pooja Iyer,Management,System Crash,Outlook crashes when opening attachments,Low,Resolved,Cleared print queue and restarted spooler service.,2024-03-27 10:56:00,2024-03-30 22:56:00,No,CSV Import
+123,Prasad Kulkarni,Engineering,Access Denied,Access denied to finance system,Medium,Closed,Software configuration completed successfully.,2023-12-07 11:28:00,2023-12-08 18:28:00,No,CSV Import
+124,Priya Mehta,Sales,Password Reset,Forgot my Windows login password,Critical,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2023-12-21 12:12:00,2023-12-21 19:12:00,No,CSV Import
+125,Priya Mehta,Engineering,Data Recovery,"Excel file corrupted, need recovery",Medium,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2023-11-18 11:08:00,2023-11-19 17:08:00,No,CSV Import
+126,Rahul Das,Operations,System Crash,System freezes during video calls,Medium,In Progress,,2023-08-15 17:00:00,,No,CSV Import
+127,Sneha Kapoor,Finance,Software Installation,Python environment setup required,Critical,Resolved,Granted required folder permissions. Access confirmed by user.,2023-06-14 10:00:00,2023-06-14 15:00:00,No,CSV Import
+128,Lakshmi Devi,Finance,Network Connectivity,No internet connection at my workstation,Low,In Progress,,2024-01-02 16:07:00,,No,CSV Import
+129,Suresh Reddy,HR,Printer Issue,Printer showing offline status,Medium,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2024-02-13 11:39:00,2024-02-15 10:39:00,No,CSV Import
+130,Nisha Patel,Engineering,Email Access,"Cannot access Outlook, showing connection error",Medium,Closed,Network issue fixed at switch level. Stable connection restored.,2023-12-23 14:43:00,2023-12-25 05:43:00,No,CSV Import
+131,Rohan Verma,Finance,Password Reset,Password expired and reset link not working,High,In Progress,,2023-08-04 12:39:00,,No,CSV Import
+132,Meena Pillai,Management,System Crash,Outlook crashes when opening attachments,High,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2024-01-19 16:38:00,2024-01-20 01:38:00,No,CSV Import
+133,Pooja Iyer,Operations,Data Recovery,Files missing after Windows update,High,Closed,Network issue fixed at switch level. Stable connection restored.,2024-01-18 11:26:00,2024-01-19 02:26:00,No,CSV Import
+134,Swathi Rao,Sales,Hardware Request,Requesting webcam for video calls,High,In Progress,,2023-10-09 13:09:00,,No,CSV Import
+135,Sneha Kapoor,Legal,Password Reset,Forgot my Windows login password,Low,Open,,2023-12-08 10:35:00,,No,CSV Import
+136,Pooja Iyer,HR,Access Denied,Cannot access shared drive folder,Critical,Resolved,Granted required folder permissions. Access confirmed by user.,2023-11-29 14:55:00,2023-11-29 20:55:00,No,CSV Import
+137,Amit Joshi,Operations,Email Access,"Cannot access Outlook, showing connection error",Medium,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2024-02-02 11:54:00,2024-02-03 22:54:00,No,CSV Import
+138,Geeta Singh,Operations,Network Connectivity,Network drive not accessible,Low,In Progress,,2024-01-06 16:49:00,,No,CSV Import
+139,Arjun Sharma,Marketing,Access Denied,Cannot open HR portal,High,Resolved,Printer driver reinstalled and port configured correctly.,2023-09-01 12:44:00,2023-09-02 01:44:00,No,CSV Import
+140,Rohan Verma,Legal,VPN Issue,"VPN speed is very slow, affecting productivity",Low,Open,,2023-08-12 08:05:00,,No,CSV Import
+141,Anjali Bose,Finance,Laptop Issue,Laptop overheating and shutting down,Medium,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2023-11-07 13:49:00,2023-11-09 08:49:00,No,CSV Import
+142,Swathi Rao,Engineering,VPN Issue,VPN connects but cannot access internal resources,Low,Closed,Data recovered from backup. User confirmed all files present.,2023-07-12 12:28:00,2023-07-18 02:28:00,No,CSV Import
+143,Sneha Kapoor,Management,Printer Issue,Printer not found on network,Medium,In Progress,,2023-11-24 14:07:00,,No,CSV Import
+144,Priya Mehta,Marketing,Data Recovery,Accidentally deleted important project files,High,Resolved,Replaced faulty RAM module. System running normally.,2023-09-21 14:38:00,2023-09-21 22:38:00,No,CSV Import
+145,Meena Pillai,Marketing,Email Access,Email account showing as disconnected,Critical,Closed,Hardware replacement completed. User satisfied.,2023-11-15 09:00:00,2023-11-15 16:00:00,No,CSV Import
+146,Rekha Nair,Management,Software Installation,Need Microsoft Office installed on new laptop,Medium,Resolved,Issue resolved by resetting network adapter settings.,2023-11-29 09:25:00,2023-11-30 22:25:00,No,CSV Import
+147,Deepak Sharma,Legal,Printer Issue,Printer showing offline status,Critical,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-12-25 14:18:00,2023-12-25 21:18:00,No,CSV Import
+148,Harish Verma,IT Support,Network Connectivity,No internet connection at my workstation,Low,Closed,Network issue fixed at switch level. Stable connection restored.,2023-12-03 09:27:00,2023-12-07 16:27:00,No,CSV Import
+149,Lakshmi Devi,Marketing,Access Denied,Permission denied for project folder,Medium,Open,,2023-11-21 11:21:00,,No,CSV Import
+150,Vikram Singh,Management,Password Reset,Account locked after multiple failed attempts,Medium,Open,,2023-11-26 13:46:00,,No,CSV Import
+151,Anita Roy,Finance,Laptop Issue,Screen flickering issue,Low,In Progress,,2023-08-18 09:11:00,,No,CSV Import
+152,Swathi Rao,IT Support,Printer Issue,Printer not found on network,High,Closed,Network issue fixed at switch level. Stable connection restored.,2024-03-16 17:20:00,2024-03-17 03:20:00,No,CSV Import
+153,Deepak Sharma,Marketing,Password Reset,Forgot my Windows login password,Medium,Resolved,Cleared print queue and restarted spooler service.,2023-06-29 13:32:00,2023-06-30 22:32:00,No,CSV Import
+154,Rohan Verma,Marketing,Printer Issue,Printer paper jam error,Low,Resolved,Restored files from daily backup. User data intact.,2024-04-26 09:39:00,2024-05-02 01:39:00,No,CSV Import
+155,Suresh Reddy,Engineering,Printer Issue,Printer paper jam error,Medium,Closed,Data recovered from backup. User confirmed all files present.,2024-03-19 11:20:00,2024-03-21 02:20:00,No,CSV Import
+156,Prasad Kulkarni,Sales,Software Installation,AutoCAD installation failed with error 1603,Critical,Resolved,Replaced faulty RAM module. System running normally.,2023-07-14 16:41:00,2023-07-14 20:41:00,No,CSV Import
+157,Anita Roy,Management,Other,Need software license renewed,Medium,Resolved,Restored files from daily backup. User data intact.,2023-08-21 13:23:00,2023-08-23 01:23:00,No,CSV Import
+158,Rohan Verma,Sales,Network Connectivity,Cannot access company intranet,High,Open,,2023-11-16 09:35:00,,No,CSV Import
+159,Rahul Das,Finance,Email Access,Emails not syncing on mobile phone,Medium,Closed,Software configuration completed successfully.,2023-07-12 17:42:00,2023-07-14 04:42:00,No,CSV Import
+160,Meena Pillai,HR,Data Recovery,Files missing after Windows update,High,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2024-03-13 14:41:00,2024-03-14 00:41:00,No,CSV Import
+161,Arjun Sharma,Sales,Password Reset,Account locked after multiple failed attempts,Medium,Resolved,Cleared print queue and restarted spooler service.,2023-12-03 12:11:00,2023-12-04 22:11:00,No,CSV Import
+162,Meena Pillai,HR,Laptop Issue,Laptop overheating and shutting down,Medium,Open,,2023-07-22 16:49:00,,No,CSV Import
+163,Ravi Shankar,Sales,Other,Requesting IT equipment audit,High,Open,,2024-04-12 10:38:00,,No,CSV Import
+164,Lakshmi Devi,Finance,Software Installation,Python environment setup required,Low,Closed,Network issue fixed at switch level. Stable connection restored.,2024-01-11 08:26:00,2024-01-15 14:26:00,No,CSV Import
+165,Kavya Reddy,IT Support,Access Denied,Access denied to finance system,Medium,Resolved,Printer driver reinstalled and port configured correctly.,2024-02-29 11:19:00,2024-03-01 17:19:00,No,CSV Import
+166,Arun Pillai,IT Support,Data Recovery,"Excel file corrupted, need recovery",Critical,Closed,Hardware replacement completed. User satisfied.,2023-10-23 14:32:00,2023-10-23 21:32:00,No,CSV Import
+167,Priya Mehta,Marketing,Laptop Issue,Keyboard keys not working properly,High,Open,,2024-04-24 15:55:00,,No,CSV Import
+168,Sunita Kumari,Management,System Crash,Application crashes when opening large files,Critical,Resolved,Cleared print queue and restarted spooler service.,2023-08-03 12:05:00,2023-08-03 18:05:00,No,CSV Import
+169,Harish Verma,Operations,System Crash,Computer crashes with blue screen,Low,Resolved,Issue resolved by resetting network adapter settings.,2024-01-17 13:59:00,2024-01-22 18:59:00,No,CSV Import
+170,Anjali Bose,HR,Hardware Request,Need a second monitor for design work,Medium,In Progress,,2023-09-23 08:20:00,,No,CSV Import
+171,Priya Mehta,Finance,Other,Monitor needs wall mounting,Medium,Closed,Network issue fixed at switch level. Stable connection restored.,2023-10-25 15:44:00,2023-10-27 15:44:00,No,CSV Import
+172,Sanjay Gupta,Engineering,Printer Issue,Printer paper jam error,Medium,Closed,Network issue fixed at switch level. Stable connection restored.,2023-09-19 10:35:00,2023-09-21 02:35:00,No,CSV Import
+173,Priya Mehta,HR,Password Reset,Password expired and reset link not working,High,In Progress,,2023-10-01 14:40:00,,No,CSV Import
+174,Anita Roy,IT Support,Printer Issue,Printer paper jam error,Low,Closed,Hardware replacement completed. User satisfied.,2024-03-01 08:40:00,2024-03-05 14:40:00,No,CSV Import
+175,Deepak Sharma,Operations,Email Access,"Cannot access Outlook, showing connection error",Medium,Resolved,Printer driver reinstalled and port configured correctly.,2023-12-31 10:42:00,2024-01-02 02:42:00,No,CSV Import
+176,Rekha Nair,Management,Password Reset,Cannot login to ERP system,Critical,Resolved,Restored files from daily backup. User data intact.,2023-06-11 14:55:00,2023-06-11 18:55:00,No,CSV Import
+177,Anjali Bose,HR,Network Connectivity,Network drive not accessible,Medium,Open,,2023-10-02 09:49:00,,No,CSV Import
+178,Rekha Nair,Sales,Other,Requesting IT equipment audit,High,Open,,2023-11-21 10:53:00,,No,CSV Import
+179,Rohan Verma,Finance,Other,Monitor needs wall mounting,Medium,In Progress,,2024-01-21 08:18:00,,No,CSV Import
+180,Asha Nair,Sales,VPN Issue,"VPN speed is very slow, affecting productivity",High,Closed,Software configuration completed successfully.,2023-11-06 16:25:00,2023-11-07 07:25:00,No,CSV Import
+181,Sunita Kumari,Sales,VPN Issue,Unable to connect to VPN from home,High,In Progress,,2023-06-25 13:17:00,,No,CSV Import
+182,Ravi Shankar,IT Support,Network Connectivity,Cannot access company intranet,Medium,Resolved,Cleared print queue and restarted spooler service.,2023-12-15 13:11:00,2023-12-17 11:11:00,No,CSV Import
+183,Lakshmi Devi,HR,Network Connectivity,Network drive not accessible,Critical,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2024-01-04 09:27:00,2024-01-04 14:27:00,No,CSV Import
+184,Meena Pillai,Marketing,Email Access,Email account showing as disconnected,Medium,Open,,2024-01-15 17:45:00,,No,CSV Import
+185,Lakshmi Devi,Engineering,Software Installation,Python environment setup required,High,Resolved,Fixed by reinstalling the VPN client and reconfiguring profile.,2023-11-28 17:27:00,2023-11-29 01:27:00,No,CSV Import
+186,Arjun Sharma,Finance,Data Recovery,Database backup restore required,Medium,Resolved,Password reset successfully. User advised to update recovery email.,2023-08-13 17:43:00,2023-08-14 18:43:00,No,CSV Import
+187,Kiran Kumar,Sales,Password Reset,Account locked after multiple failed attempts,Medium,Resolved,Cleared print queue and restarted spooler service.,2024-03-17 08:38:00,2024-03-19 05:38:00,No,CSV Import
+188,Manoj Tiwari,Finance,Network Connectivity,Very slow internet speed on 3rd floor,Medium,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-12-05 14:20:00,2023-12-06 21:20:00,No,CSV Import
+189,Asha Nair,Legal,VPN Issue,Cisco AnyConnect shows authentication error,High,Resolved,Replaced faulty RAM module. System running normally.,2024-03-14 09:16:00,2024-03-15 00:16:00,No,CSV Import
+190,Vikram Singh,IT Support,Access Denied,Cannot access shared drive folder,Medium,Closed,Hardware replacement completed. User satisfied.,2023-08-02 10:54:00,2023-08-04 00:54:00,No,CSV Import
+191,Swathi Rao,Sales,Other,Need help with Teams configuration,Medium,Open,,2023-11-25 09:35:00,,No,CSV Import
+192,Geeta Singh,Finance,Email Access,"Cannot access Outlook, showing connection error",High,Closed,Hardware replacement completed. User satisfied.,2023-12-03 16:14:00,2023-12-04 03:14:00,No,CSV Import
+193,Deepak Sharma,Management,Laptop Issue,Laptop overheating and shutting down,High,Open,,2023-12-06 15:51:00,,No,CSV Import
+194,Kiran Kumar,Marketing,Software Installation,Need VirtualBox installed for testing,Medium,Open,,2024-02-01 16:26:00,,No,CSV Import
+195,Suresh Reddy,HR,Access Denied,Permission denied for project folder,Low,Closed,Data recovered from backup. User confirmed all files present.,2024-01-25 16:22:00,2024-01-31 14:22:00,No,CSV Import
+196,Asha Nair,Management,Software Installation,AutoCAD installation failed with error 1603,High,Open,,2023-06-29 09:33:00,,No,CSV Import
+197,Anjali Bose,Operations,Email Access,"Cannot access Outlook, showing connection error",Low,In Progress,,2024-02-21 12:54:00,,No,CSV Import
+198,Amit Joshi,Marketing,Email Access,Not receiving emails from external senders,Low,Closed,Data recovered from backup. User confirmed all files present.,2024-04-16 12:39:00,2024-04-19 23:39:00,No,CSV Import
+199,Divya Nair,Finance,Data Recovery,"Excel file corrupted, need recovery",Low,Closed,Issue resolved and confirmed by user. Ticket closed.,2024-04-15 17:21:00,2024-04-18 22:21:00,No,CSV Import
+200,Varun Menon,Marketing,Password Reset,Password expired and reset link not working,Low,Resolved,Cleared print queue and restarted spooler service.,2023-09-16 17:26:00,2023-09-19 20:26:00,No,CSV Import
+201,Nisha Patel,Marketing,Data Recovery,Database backup restore required,Medium,Resolved,Issue resolved by resetting network adapter settings.,2023-10-04 14:19:00,2023-10-05 16:19:00,No,CSV Import
+202,Rahul Das,Operations,Software Installation,Python environment setup required,Medium,Resolved,Printer driver reinstalled and port configured correctly.,2024-04-06 10:20:00,2024-04-08 09:20:00,No,CSV Import
+203,Sneha Kapoor,Management,Hardware Request,Need a second monitor for design work,Low,Resolved,Cleared print queue and restarted spooler service.,2023-11-11 11:29:00,2023-11-15 21:29:00,No,CSV Import
+204,Sunita Kumari,Legal,Laptop Issue,Battery draining very fast,Low,Open,,2024-04-11 14:15:00,,No,CSV Import
+205,Arun Pillai,Operations,Network Connectivity,Cannot access company intranet,Critical,Resolved,Software installed and licensed. User trained on basic usage.,2023-08-21 15:32:00,2023-08-21 22:32:00,No,CSV Import
+206,Suresh Reddy,Management,Printer Issue,Printer not found on network,Low,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-10-02 11:37:00,2023-10-05 17:37:00,No,CSV Import
+207,Meena Pillai,IT Support,Email Access,"Cannot access Outlook, showing connection error",Medium,Closed,Hardware replacement completed. User satisfied.,2024-03-01 08:54:00,2024-03-02 21:54:00,No,CSV Import
+208,Priya Mehta,Sales,Email Access,Not receiving emails from external senders,High,Closed,Software configuration completed successfully.,2023-12-23 08:36:00,2023-12-23 19:36:00,No,CSV Import
+209,Arun Pillai,IT Support,System Crash,Browser crashes repeatedly,Medium,Resolved,Granted required folder permissions. Access confirmed by user.,2024-03-08 12:52:00,2024-03-10 09:52:00,No,CSV Import
+210,Geeta Singh,Sales,Password Reset,Account locked after multiple failed attempts,Low,Open,,2023-11-21 16:23:00,,No,CSV Import
+211,Arjun Sharma,Operations,Network Connectivity,No internet connection at my workstation,Low,Resolved,Printer driver reinstalled and port configured correctly.,2023-07-07 08:14:00,2023-07-10 12:14:00,Yes,Duplicate Import
+212,Anita Roy,Engineering,Password Reset,Password expired and reset link not working,Critical,Resolved,Configured Outlook profile fresh. Emails syncing normally.,2023-07-12 14:42:00,2023-07-12 22:42:00,Yes,Duplicate Import
+213,Vikram Singh,Legal,Access Denied,Access denied to finance system,Medium,Closed,Network issue fixed at switch level. Stable connection restored.,2023-07-19 09:42:00,2023-07-20 20:42:00,Yes,Duplicate Import
+214,Amit Joshi,Management,Software Installation,AutoCAD installation failed with error 1603,Medium,Closed,Software configuration completed successfully.,2023-10-18 12:38:00,2023-10-20 10:38:00,Yes,Duplicate Import
+215,Swathi Rao,Finance,System Crash,Browser crashes repeatedly,Medium,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-07-14 12:32:00,2023-07-15 22:32:00,Yes,Duplicate Import
+216,Anjali Bose,Operations,VPN Issue,Cisco AnyConnect shows authentication error,Medium,Closed,Software configuration completed successfully.,2024-01-07 09:42:00,2024-01-09 04:42:00,Yes,Duplicate Import
+217,Harish Verma,IT Support,Access Denied,Permission denied for project folder,Critical,Open,,2023-07-06 16:49:00,,Yes,Duplicate Import
+218,Sanjay Gupta,Finance,Software Installation,AutoCAD installation failed with error 1603,High,Closed,Hardware replacement completed. User satisfied.,2024-02-26 17:27:00,2024-02-27 09:27:00,Yes,Duplicate Import
+219,Anita Roy,HR,Network Connectivity,WiFi keeps disconnecting every few minutes,Medium,In Progress,,2024-04-21 10:34:00,,Yes,Duplicate Import
+220,Nisha Patel,Management,Laptop Issue,Screen flickering issue,High,Closed,Issue resolved and confirmed by user. Ticket closed.,2023-10-07 08:05:00,2023-10-07 20:05:00,Yes,Duplicate Import

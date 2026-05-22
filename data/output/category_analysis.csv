@@ -1,0 +1,13 @@
+issue_category,ticket_count,resolved,avg_resolution_hours,critical_count,high_count,resolution_rate_pct
+Email Access,22,17,27.88,2,7,77.3
+Software Installation,22,15,42.2,3,3,68.2
+Printer Issue,20,15,48.27,1,4,75.0
+Access Denied,20,15,35.73,3,5,75.0
+Network Connectivity,19,8,42.25,3,2,42.1
+Data Recovery,19,16,36.69,1,7,84.2
+Hardware Request,18,13,36.0,2,3,72.2
+Password Reset,18,9,32.0,3,3,50.0
+System Crash,14,12,38.75,1,6,85.7
+Other,13,5,34.2,0,3,38.5
+VPN Issue,13,8,66.5,0,4,61.5
+Laptop Issue,12,2,27.5,0,4,16.7

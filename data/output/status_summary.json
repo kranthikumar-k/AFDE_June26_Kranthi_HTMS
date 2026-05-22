@@ -1,0 +1,22 @@
+[
+  {
+    "status":"Closed",
+    "count":54,
+    "avg_resolution_hours":44.19
+  },
+  {
+    "status":"In Progress",
+    "count":33,
+    "avg_resolution_hours":null
+  },
+  {
+    "status":"Open",
+    "count":42,
+    "avg_resolution_hours":null
+  },
+  {
+    "status":"Resolved",
+    "count":81,
+    "avg_resolution_hours":35.62
+  }
+]

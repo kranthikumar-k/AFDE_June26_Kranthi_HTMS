@@ -10,6 +10,7 @@ from database import engine, get_db
 import models
 import crud
 from routers import tickets
+from routers import analytics                          # ← Phase 2
 from schemas import DashboardStats, CATEGORIES, PRIORITIES, STATUSES, DEPARTMENTS
 
 # ── Create all tables ─────────────────────────────────────────
@@ -18,8 +19,8 @@ models.Base.metadata.create_all(bind=engine)
 # ── FastAPI app ───────────────────────────────────────────────
 app = FastAPI(
     title="Helpdesk Ticket Management System",
-    description="REST API for managing IT support tickets",
-    version="1.0.0",
+    description="REST API for managing IT support tickets — Phase 1 + Phase 2 ETL Analytics",
+    version="2.0.0",
     docs_url="/docs",
     redoc_url="/redoc",
 )
@@ -33,24 +34,25 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# ── Include routers ───────────────────────────────────────────
+# ── Routers ───────────────────────────────────────────────────
 app.include_router(tickets.router)
+app.include_router(analytics.router)                   # ← Phase 2
 
 # ── Health check ──────────────────────────────────────────────
 @app.get("/", tags=["Health"])
 def root():
     return {
-        "message":     "Helpdesk Ticket Management System API",
-        "version":     "1.0.0",
-        "status":      "running",
-        "docs":        "/docs",
+        "message": "Helpdesk Ticket Management System API",
+        "version": "2.0.0",
+        "status":  "running",
+        "docs":    "/docs",
     }
 
 @app.get("/health", tags=["Health"])
 def health():
-    return {"status": "healthy", "service": "Helpdesk API"}
+    return {"status": "healthy", "service": "Helpdesk API v2.0"}
 
-# ── Dashboard stats ───────────────────────────────────────────
+# ── Dashboard stats (Phase 1) ─────────────────────────────────
 @app.get("/dashboard", response_model=DashboardStats, tags=["Dashboard"])
 def get_dashboard(db: Session = Depends(get_db)):
     return crud.get_dashboard_stats(db)
@@ -62,25 +64,17 @@ def search_tickets(
     db: Session = Depends(get_db),
 ):
     results = crud.search_tickets(db, keyword=q)
-    return {
-        "query":   q,
-        "total":   len(results),
-        "results": results,
-    }
+    return {"query": q, "total": len(results), "results": results}
 
 # ── Metadata endpoints ────────────────────────────────────────
-@app.get("/meta/categories", tags=["Metadata"])
-def get_categories():
-    return {"categories": CATEGORIES}
+@app.get("/meta/categories",  tags=["Metadata"])
+def get_categories():  return {"categories":  CATEGORIES}
 
-@app.get("/meta/priorities", tags=["Metadata"])
-def get_priorities():
-    return {"priorities": PRIORITIES}
+@app.get("/meta/priorities",  tags=["Metadata"])
+def get_priorities():  return {"priorities":  PRIORITIES}
 
-@app.get("/meta/statuses", tags=["Metadata"])
-def get_statuses():
-    return {"statuses": STATUSES}
+@app.get("/meta/statuses",    tags=["Metadata"])
+def get_statuses():    return {"statuses":    STATUSES}
 
 @app.get("/meta/departments", tags=["Metadata"])
-def get_departments():
-    return {"departments": DEPARTMENTS}
+def get_departments(): return {"departments": DEPARTMENTS}

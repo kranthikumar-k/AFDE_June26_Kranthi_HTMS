@@ -1,0 +1,10 @@
+department,ticket_count,open_tickets,resolved,avg_resolution_hours,critical_count,resolution_rate_pct
+Marketing,31,8,20,32.45,2,64.5
+Sales,27,11,11,19.0,4,40.7
+Operations,26,3,17,46.71,1,65.4
+Management,25,6,16,38.69,2,64.0
+HR,25,2,18,40.33,3,72.0
+IT Support,24,3,18,47.17,3,75.0
+Finance,20,3,13,36.85,1,65.0
+Legal,17,4,11,46.91,2,64.7
+Engineering,15,2,11,39.09,1,73.3
